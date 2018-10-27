@@ -3,7 +3,7 @@
 # Git Command line instructions
 **************************************
 
-![git(https://static1.squarespace.com/static/5783a7e19de4bb11478ae2d8/5821d2b909e1c46748736b4a/583d6f01e58c627c3a6b7e47/1502273213995/Github_Blog.gif?w=1000w)
+![git](https://static1.squarespace.com/static/5783a7e19de4bb11478ae2d8/5821d2b909e1c46748736b4a/583d6f01e58c627c3a6b7e47/1502273213995/Github_Blog.gif)
 
 
 ****************************************
